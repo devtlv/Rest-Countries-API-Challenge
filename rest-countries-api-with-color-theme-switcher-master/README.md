@@ -1,4 +1,4 @@
-# Frontend Mentor - REST Countries API with color theme switcher
+# REST Countries API with color theme switcher
 
 ![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
 
@@ -8,9 +8,11 @@
 
 Your challenge is to integrate with the [REST Countries API](https://restcountries.com) to pull country data and display it like in the designs.
 
-You should use React or another Javascript Framework/Library.
-You should use Node.js for the back end.
-You need to make requests to an API, and save the data in the database.
+- You should use React or another Javascript Framework/Library.
+- You should use Node.js for the back end.
+- You need to make requests to an API, and save the data in the database.
+
+---
 
 Your users should be able to:
 
